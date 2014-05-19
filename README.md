@@ -1,7 +1,6 @@
 spring-boot-helloworld
 ======================
-
-spring-boot1.0.2 spring-data-jpa jsp
+spring-boot1.0.2
 
 This project was built with version 1.0.2 of spring-boot, and integrated spring-data-jpa.
 
